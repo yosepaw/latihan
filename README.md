@@ -1,2 +1,1 @@
-# latihan
-Belajar Visual Basic
+Latihan visual Basic
